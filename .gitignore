@@ -1,0 +1,26 @@
+# Eclipse
+.settings
+.metadata
+.project
+.classpath
+Servers
+bin
+target
+libraries
+
+# SpringSource Tool Suite
+.springBeans
+
+# Gradle
+.gradle
+
+# Netbeans
+build
+dist
+private
+
+# Jasper Report
+*.bak
+
+
+
